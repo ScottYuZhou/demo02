@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Scott Zhou is your friend- v2 
 You should be my friend as well 
+=======
+"hello from Scott Zhou" 
+goodbye from Scott Zhou 
+In a parallel universe, we are changing history! 
+>>>>>>> newfeature
